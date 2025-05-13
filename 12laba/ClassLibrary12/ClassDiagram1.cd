@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibrary12.Employee">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAACAAAAEgAACAAAACAAAAAgAAABCAAAAIBg=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary12.Person">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAACARQQEgAAQggAAAAAEAIAAAAACABAAAhA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary12.Student">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <InheritanceLine Type="ClassLibrary12.Person" ManuallyRouted="true">
+      <Path>
+        <Point X="5.25" Y="0.75" />
+        <Point X="5.25" Y="0.626" />
+        <Point X="6.375" Y="0.626" />
+        <Point X="6.375" Y="6.401" />
+        <Point X="11.25" Y="6.401" />
+        <Point X="11.25" Y="4.723" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAEgEAAAAAAAAAAAYAAAAECAAAAABA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary12.Teacher">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAEgAACAAAAAgAAAIAAAABCAAAAABA=</HashCode>
+      <FileName>Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary12.IdNumber">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAEgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IdNumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary12.PersonAgeComparer">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>PersonAgeComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary12.Animal">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAAAAACAQAAEAEAAAAAAAAAEAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary12.MyCollection&lt;T&gt;">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAgCAABBAQBAKABAQAgAAAAAAEoAAAAJBUIBA=</HashCode>
+      <FileName>MyCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

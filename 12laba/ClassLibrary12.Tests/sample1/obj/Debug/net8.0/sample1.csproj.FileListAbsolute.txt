@@ -1,0 +1,15 @@
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\bin\Debug\net8.0\sample1.exe
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\bin\Debug\net8.0\sample1.deps.json
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\bin\Debug\net8.0\sample1.runtimeconfig.json
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\bin\Debug\net8.0\sample1.dll
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\bin\Debug\net8.0\sample1.pdb
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\obj\Debug\net8.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\obj\Debug\net8.0\sample1.AssemblyInfoInputs.cache
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\obj\Debug\net8.0\sample1.AssemblyInfo.cs
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\obj\Debug\net8.0\sample1.csproj.CoreCompileInputs.cache
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\obj\Debug\net8.0\sample1.sourcelink.json
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\obj\Debug\net8.0\sample1.dll
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\obj\Debug\net8.0\refint\sample1.dll
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\obj\Debug\net8.0\sample1.pdb
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\obj\Debug\net8.0\sample1.genruntimeconfig.cache
+C:\Users\linac\source\repos\OOP-labs\oop\12laba\ClassLibrary12.Tests\sample1\obj\Debug\net8.0\ref\sample1.dll

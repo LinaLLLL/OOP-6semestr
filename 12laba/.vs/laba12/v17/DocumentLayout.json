@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|solutionrelative:classlibrary12\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|solutionrelative:classlibrary12\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA79F3A-46E4-4155-967F-560110C00642}|laba12\\laba12.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\laba12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA79F3A-46E4-4155-967F-560110C00642}|laba12\\laba12.csproj|solutionrelative:laba12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DBD15-633E-46F3-8413-20608599F4BE}|ClassLibrary12.Tests\\ClassLibrary12.Tests.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12.tests\\testresults\\f0b4d107-7629-46e0-849e-f2cddf56315d\\linac_piska_2025-05-12.13_08_59.coverage||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C02DBD15-633E-46F3-8413-20608599F4BE}|ClassLibrary12.Tests\\ClassLibrary12.Tests.csproj|solutionrelative:classlibrary12.tests\\testresults\\f0b4d107-7629-46e0-849e-f2cddf56315d\\linac_piska_2025-05-12.13_08_59.coverage||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DBD15-633E-46F3-8413-20608599F4BE}|ClassLibrary12.Tests\\ClassLibrary12.Tests.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12.tests\\testresults\\b79255ac-2505-477d-bc64-66f4c6471c29\\linac_piska_2025-05-12.13_03_56.coverage||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C02DBD15-633E-46F3-8413-20608599F4BE}|ClassLibrary12.Tests\\ClassLibrary12.Tests.csproj|solutionrelative:classlibrary12.tests\\testresults\\b79255ac-2505-477d-bc64-66f4c6471c29\\linac_piska_2025-05-12.13_03_56.coverage||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|solutionrelative:classlibrary12\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DBD15-633E-46F3-8413-20608599F4BE}|ClassLibrary12.Tests\\ClassLibrary12.Tests.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12.tests\\classlibrary12.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C02DBD15-633E-46F3-8413-20608599F4BE}|ClassLibrary12.Tests\\ClassLibrary12.Tests.csproj|solutionrelative:classlibrary12.tests\\classlibrary12.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\obj\\Debug\\net8.0\\ClassLibrary12.Tests.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary12.Tests\\obj\\Debug\\net8.0\\ClassLibrary12.Tests.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary12.Tests\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DBD15-633E-46F3-8413-20608599F4BE}|ClassLibrary12.Tests\\ClassLibrary12.Tests.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02DBD15-633E-46F3-8413-20608599F4BE}|ClassLibrary12.Tests\\ClassLibrary12.Tests.csproj|solutionrelative:classlibrary12.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|solutionrelative:classlibrary12\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\obj\\Debug\\net8.0\\ClassLibrary12.Tests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary12.Tests\\obj\\Debug\\net8.0\\ClassLibrary12.Tests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12\\idnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|solutionrelative:classlibrary12\\idnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|solutionrelative:classlibrary12\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|solutionrelative:classlibrary12\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12\\personagecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|solutionrelative:classlibrary12\\personagecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|solutionrelative:classlibrary12\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|solutionrelative:classlibrary12\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\12laba\\classlibrary12\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCE6AFD-8C11-4CF1-B191-651892CD1AB2}|ClassLibrary12\\ClassLibrary12.csproj|solutionrelative:classlibrary12\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassLibrary12\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassLibrary12\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-05-12T13:05:37.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "linac_PISKA_2025-05-12.13_08_59.coverage",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\TestResults\\f0b4d107-7629-46e0-849e-f2cddf56315d\\linac_PISKA_2025-05-12.13_08_59.coverage",
+              "RelativeDocumentMoniker": "ClassLibrary12.Tests\\TestResults\\f0b4d107-7629-46e0-849e-f2cddf56315d\\linac_PISKA_2025-05-12.13_08_59.coverage",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\TestResults\\f0b4d107-7629-46e0-849e-f2cddf56315d\\linac_PISKA_2025-05-12.13_08_59.coverage",
+              "RelativeToolTip": "ClassLibrary12.Tests\\TestResults\\f0b4d107-7629-46e0-849e-f2cddf56315d\\linac_PISKA_2025-05-12.13_08_59.coverage",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002488|",
+              "WhenOpened": "2025-05-12T08:09:11.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "linac_PISKA_2025-05-12.13_03_56.coverage",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\TestResults\\b79255ac-2505-477d-bc64-66f4c6471c29\\linac_PISKA_2025-05-12.13_03_56.coverage",
+              "RelativeDocumentMoniker": "ClassLibrary12.Tests\\TestResults\\b79255ac-2505-477d-bc64-66f4c6471c29\\linac_PISKA_2025-05-12.13_03_56.coverage",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\TestResults\\b79255ac-2505-477d-bc64-66f4c6471c29\\linac_PISKA_2025-05-12.13_03_56.coverage",
+              "RelativeToolTip": "ClassLibrary12.Tests\\TestResults\\b79255ac-2505-477d-bc64-66f4c6471c29\\linac_PISKA_2025-05-12.13_03_56.coverage",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002488|",
+              "WhenOpened": "2025-05-12T08:04:16.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassLibrary12.Tests.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\obj\\Debug\\net8.0\\ClassLibrary12.Tests.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12.Tests\\obj\\Debug\\net8.0\\ClassLibrary12.Tests.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\obj\\Debug\\net8.0\\ClassLibrary12.Tests.AssemblyInfo.cs",
+              "RelativeToolTip": "ClassLibrary12.Tests\\obj\\Debug\\net8.0\\ClassLibrary12.Tests.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:59:41.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12.Tests\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "ClassLibrary12.Tests\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:53:16.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassLibrary12.Tests.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\obj\\Debug\\net8.0\\ClassLibrary12.Tests.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12.Tests\\obj\\Debug\\net8.0\\ClassLibrary12.Tests.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\obj\\Debug\\net8.0\\ClassLibrary12.Tests.GlobalUsings.g.cs",
+              "RelativeToolTip": "ClassLibrary12.Tests\\obj\\Debug\\net8.0\\ClassLibrary12.Tests.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:53:16.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassLibrary12.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\ClassLibrary12.Tests.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary12.Tests\\ClassLibrary12.Tests.csproj",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\ClassLibrary12.Tests.csproj",
+              "RelativeToolTip": "ClassLibrary12.Tests\\ClassLibrary12.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T06:33:19.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ClassLibrary12.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:30:22.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Animal.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12\\Animal.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Animal.cs",
+              "RelativeToolTip": "ClassLibrary12\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:16:33.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Teacher.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12\\Teacher.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Teacher.cs",
+              "RelativeToolTip": "ClassLibrary12\\Teacher.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:16:22.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Student.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12\\Student.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Student.cs",
+              "RelativeToolTip": "ClassLibrary12\\Student.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAewCsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:16:19.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonAgeComparer.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\PersonAgeComparer.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12\\PersonAgeComparer.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\PersonAgeComparer.cs",
+              "RelativeToolTip": "ClassLibrary12\\PersonAgeComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:16:15.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Person.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12\\Person.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Person.cs",
+              "RelativeToolTip": "ClassLibrary12\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:16:08.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Employee.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12\\Employee.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Employee.cs",
+              "RelativeToolTip": "ClassLibrary12\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:16:01.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IdNumber.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\IdNumber.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12\\IdNumber.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\IdNumber.cs",
+              "RelativeToolTip": "ClassLibrary12\\IdNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:15:59.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IInit.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\IInit.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12\\IInit.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\IInit.cs",
+              "RelativeToolTip": "ClassLibrary12\\IInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:15:55.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\laba12\\Program.cs",
+              "RelativeDocumentMoniker": "laba12\\Program.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\laba12\\Program.cs",
+              "RelativeToolTip": "laba12\\Program.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAtwJ4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:15:30.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Node.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12\\Node.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Node.cs",
+              "RelativeToolTip": "ClassLibrary12\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:13:22.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyCollection.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\MyCollection.cs",
+              "RelativeDocumentMoniker": "ClassLibrary12\\MyCollection.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\MyCollection.cs",
+              "RelativeToolTip": "ClassLibrary12\\MyCollection.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAmwKUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:12:10.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2471 @@
+{
+  "ClassLibrary12.dll": {
+    "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Animal.cs": {
+      "ClassLibrary12.Animal": {
+        "System.String ClassLibrary12.Animal::get_name()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 ClassLibrary12.Animal::get_Age()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Animal::set_Age(System.Int32)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 3,
+              "EndOffset": 5,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 3,
+              "EndOffset": 12,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 15,
+              "EndOffset": 17,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 15,
+              "EndOffset": 28,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.String ClassLibrary12.Animal::ToString()": {
+          "Lines": {
+            "41": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Animal::RandomInit()": {
+          "Lines": {
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Animal::Init()": {
+          "Lines": {
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Animal::.ctor()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Animal::.ctor(System.String,System.Int32)": {
+          "Lines": {
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Animal::.cctor()": {
+          "Lines": {
+            "7": 0,
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Employee.cs": {
+      "ClassLibrary12.Employee": {
+        "System.Void ClassLibrary12.Employee::Init(ClassLibrary12.Employee)": {
+          "Lines": {
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Employee::RandomInit()": {
+          "Lines": {
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "69": 0
+          },
+          "Branches": [
+            {
+              "Line": 56,
+              "Offset": 81,
+              "EndOffset": 83,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 81,
+              "EndOffset": 116,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 134,
+              "EndOffset": 136,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 134,
+              "EndOffset": 169,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean ClassLibrary12.Employee::Equals(System.Object)": {
+          "Lines": {
+            "72": 0,
+            "74": 0,
+            "77": 0,
+            "80": 0,
+            "81": 0
+          },
+          "Branches": [
+            {
+              "Line": 74,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 74,
+              "Offset": 13,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 62,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 43,
+              "EndOffset": 80,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 62,
+              "EndOffset": 80,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.String ClassLibrary12.Employee::ToString()": {
+          "Lines": {
+            "84": 0,
+            "85": 0,
+            "86": 0
+          },
+          "Branches": []
+        },
+        "System.Object ClassLibrary12.Employee::Clone()": {
+          "Lines": {
+            "90": 0,
+            "91": 0,
+            "92": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Employee::.ctor()": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Employee::.ctor(System.Int32,System.String,System.String,System.Int32,System.String,System.String,System.Int32)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Employee::.ctor(ClassLibrary12.Employee)": {
+          "Lines": {
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Employee::.cctor()": {
+          "Lines": {
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\IdNumber.cs": {
+      "ClassLibrary12.IdNumber": {
+        "System.String ClassLibrary12.IdNumber::ToString()": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean ClassLibrary12.IdNumber::Equals(System.Object)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 14,
+              "EndOffset": 34,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void ClassLibrary12.IdNumber::.ctor(System.Int32)": {
+          "Lines": {
+            "12": 3,
+            "13": 3,
+            "14": 3,
+            "15": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\MyCollection.cs": {
+      "ClassLibrary12.MyCollection`1": {
+        "System.Void ClassLibrary12.MyCollection`1::Add(T)": {
+          "Lines": {
+            "41": 13,
+            "42": 13,
+            "43": 13,
+            "44": 6,
+            "45": 6,
+            "46": 6,
+            "48": 7,
+            "49": 7,
+            "50": 9,
+            "51": 2,
+            "52": 7,
+            "53": 7,
+            "54": 13,
+            "55": 13
+          },
+          "Branches": [
+            {
+              "Line": 43,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            },
+            {
+              "Line": 43,
+              "Offset": 19,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 7
+            },
+            {
+              "Line": 50,
+              "Offset": 60,
+              "EndOffset": 42,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 50,
+              "Offset": 60,
+              "EndOffset": 62,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 7
+            }
+          ]
+        },
+        "System.Void ClassLibrary12.MyCollection`1::AddRange(System.Collections.Generic.IEnumerable`1<T>)": {
+          "Lines": {
+            "58": 2,
+            "59": 18,
+            "60": 6,
+            "61": 6,
+            "62": 6,
+            "63": 2
+          },
+          "Branches": [
+            {
+              "Line": 59,
+              "Offset": 34,
+              "EndOffset": 11,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 6
+            },
+            {
+              "Line": 59,
+              "Offset": 34,
+              "EndOffset": 36,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Boolean ClassLibrary12.MyCollection`1::Remove(T)": {
+          "Lines": {
+            "67": 3,
+            "68": 3,
+            "69": 3,
+            "71": 4,
+            "72": 4,
+            "73": 4,
+            "74": 3,
+            "75": 3,
+            "76": 2,
+            "78": 1,
+            "80": 3,
+            "81": 3,
+            "84": 1,
+            "85": 1,
+            "86": 1,
+            "88": 0,
+            "89": 3
+          },
+          "Branches": [
+            {
+              "Line": 71,
+              "Offset": 107,
+              "EndOffset": 12,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 4
+            },
+            {
+              "Line": 73,
+              "Offset": 32,
+              "EndOffset": 34,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 75,
+              "Offset": 41,
+              "EndOffset": 43,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 75,
+              "Offset": 41,
+              "EndOffset": 57,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 73,
+              "Offset": 32,
+              "EndOffset": 89,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 71,
+              "Offset": 107,
+              "EndOffset": 109,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void ClassLibrary12.MyCollection`1::RemoveRange(System.Collections.Generic.IEnumerable`1<T>)": {
+          "Lines": {
+            "92": 1,
+            "93": 7,
+            "94": 2,
+            "95": 2,
+            "96": 2,
+            "97": 1
+          },
+          "Branches": [
+            {
+              "Line": 93,
+              "Offset": 34,
+              "EndOffset": 11,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 93,
+              "Offset": 34,
+              "EndOffset": 36,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Boolean ClassLibrary12.MyCollection`1::Contains(T)": {
+          "Lines": {
+            "101": 4,
+            "102": 21,
+            "103": 5,
+            "104": 5,
+            "105": 3,
+            "107": 3,
+            "108": 1,
+            "109": 2,
+            "110": 4,
+            "111": 3,
+            "112": 4
+          },
+          "Branches": [
+            {
+              "Line": 102,
+              "Offset": 134,
+              "EndOffset": 11,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 5
+            },
+            {
+              "Line": 104,
+              "Offset": 32,
+              "EndOffset": 34,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 104,
+              "Offset": 32,
+              "EndOffset": 52,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 104,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 3
+            },
+            {
+              "Line": 107,
+              "Offset": 77,
+              "EndOffset": 79,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 107,
+              "Offset": 96,
+              "EndOffset": 98,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 107,
+              "Offset": 77,
+              "EndOffset": 114,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 107,
+              "Offset": 96,
+              "EndOffset": 114,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 107,
+              "Offset": 119,
+              "EndOffset": 121,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 107,
+              "Offset": 119,
+              "EndOffset": 126,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 2
+            },
+            {
+              "Line": 104,
+              "Offset": 57,
+              "EndOffset": 127,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            },
+            {
+              "Line": 102,
+              "Offset": 134,
+              "EndOffset": 136,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 3
+            }
+          ]
+        },
+        "System.Object ClassLibrary12.MyCollection`1::Clone()": {
+          "Lines": {
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0
+          },
+          "Branches": [
+            {
+              "Line": 118,
+              "Offset": 82,
+              "EndOffset": 17,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 120,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 120,
+              "Offset": 45,
+              "EndOffset": 67,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 118,
+              "Offset": 82,
+              "EndOffset": 84,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            }
+          ]
+        },
+        "ClassLibrary12.MyCollection`1<T> ClassLibrary12.MyCollection`1::ShallowCopy()": {
+          "Lines": {
+            "130": 0,
+            "131": 0,
+            "132": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.MyCollection`1::Clear()": {
+          "Lines": {
+            "136": 1,
+            "137": 1,
+            "138": 1,
+            "139": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 ClassLibrary12.MyCollection`1::get_Count()": {
+          "Lines": {
+            "142": 5
+          },
+          "Branches": []
+        },
+        "System.Boolean ClassLibrary12.MyCollection`1::get_IsReadOnly()": {
+          "Lines": {
+            "143": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.MyCollection`1::CopyTo(T[],System.Int32)": {
+          "Lines": {
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0
+          },
+          "Branches": [
+            {
+              "Line": 147,
+              "Offset": 39,
+              "EndOffset": 11,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 147,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerator`1<T> ClassLibrary12.MyCollection`1::GetEnumerator()": {
+          "Lines": {
+            "155": 4,
+            "156": 4,
+            "157": 4,
+            "158": 4
+          },
+          "Branches": []
+        },
+        "System.Collections.IEnumerator ClassLibrary12.MyCollection`1::System.Collections.IEnumerable.GetEnumerator()": {
+          "Lines": {
+            "159": 0
+          },
+          "Branches": []
+        },
+        "T ClassLibrary12.MyCollection`1::get_Current()": {
+          "Lines": {
+            "165": 5,
+            "166": 5,
+            "167": 0,
+            "168": 5,
+            "169": 5
+          },
+          "Branches": [
+            {
+              "Line": 166,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 166,
+              "Offset": 12,
+              "EndOffset": 25,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 5
+            }
+          ]
+        },
+        "System.Object ClassLibrary12.MyCollection`1::System.Collections.IEnumerator.get_Current()": {
+          "Lines": {
+            "171": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean ClassLibrary12.MyCollection`1::MoveNext()": {
+          "Lines": {
+            "174": 8,
+            "175": 8,
+            "176": 8,
+            "177": 8
+          },
+          "Branches": [
+            {
+              "Line": 175,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 175,
+              "Offset": 8,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            }
+          ]
+        },
+        "System.Void ClassLibrary12.MyCollection`1::Reset()": {
+          "Lines": {
+            "179": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.MyCollection`1::Dispose()": {
+          "Lines": {
+            "180": 8
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.MyCollection`1::.ctor()": {
+          "Lines": {
+            "20": 6,
+            "21": 6,
+            "22": 6,
+            "23": 6,
+            "24": 6,
+            "25": 6
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.MyCollection`1::.ctor(System.Int32)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.MyCollection`1::.ctor(ClassLibrary12.MyCollection`1<T>)": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": [
+            {
+              "Line": 35,
+              "Offset": 39,
+              "EndOffset": 18,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Node.cs": {
+      "ClassLibrary12.Node`1": {
+        "T ClassLibrary12.Node`1::get_Data()": {
+          "Lines": {
+            "11": 22
+          },
+          "Branches": []
+        },
+        "ClassLibrary12.Node`1<T> ClassLibrary12.Node`1::get_Next()": {
+          "Lines": {
+            "12": 40
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Node`1::.ctor(T)": {
+          "Lines": {
+            "14": 13,
+            "15": 13,
+            "16": 13,
+            "17": 13,
+            "18": 13
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Person.cs": {
+      "ClassLibrary12.Person": {
+        "System.Int32 ClassLibrary12.Person::get_GetMaxAge()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Person::ShowName()": {
+          "Lines": {
+            "50": 0,
+            "51": 0,
+            "52": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Person::Init()": {
+          "Lines": {
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Person::RandomInit()": {
+          "Lines": {
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0
+          },
+          "Branches": [
+            {
+              "Line": 74,
+              "Offset": 64,
+              "EndOffset": 66,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 74,
+              "Offset": 64,
+              "EndOffset": 143,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean ClassLibrary12.Person::Equals(System.Object)": {
+          "Lines": {
+            "87": 0,
+            "89": 0,
+            "90": 0,
+            "93": 0,
+            "96": 0,
+            "97": 0
+          },
+          "Branches": [
+            {
+              "Line": 89,
+              "Offset": 2,
+              "EndOffset": 4,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 89,
+              "Offset": 2,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 89,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 89,
+              "Offset": 26,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 96,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 96,
+              "Offset": 75,
+              "EndOffset": 77,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 96,
+              "Offset": 94,
+              "EndOffset": 96,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 96,
+              "Offset": 56,
+              "EndOffset": 112,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 96,
+              "Offset": 75,
+              "EndOffset": 112,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 96,
+              "Offset": 94,
+              "EndOffset": 112,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32 ClassLibrary12.Person::GetHashCode()": {
+          "Lines": {
+            "99": 0,
+            "100": 0,
+            "101": 0
+          },
+          "Branches": []
+        },
+        "System.String ClassLibrary12.Person::ToString()": {
+          "Lines": {
+            "104": 0,
+            "105": 0,
+            "106": 0
+          },
+          "Branches": [
+            {
+              "Line": 105,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 105,
+              "Offset": 39,
+              "EndOffset": 45,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32 ClassLibrary12.Person::CompareTo(ClassLibrary12.Person)": {
+          "Lines": {
+            "110": 0,
+            "111": 0,
+            "114": 0,
+            "117": 0
+          },
+          "Branches": [
+            {
+              "Line": 111,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 111,
+              "Offset": 7,
+              "EndOffset": 13,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "ClassLibrary12.Person ClassLibrary12.Person::ShallowCopy()": {
+          "Lines": {
+            "121": 0,
+            "122": 0,
+            "123": 0
+          },
+          "Branches": []
+        },
+        "System.Object ClassLibrary12.Person::Clone()": {
+          "Lines": {
+            "127": 0,
+            "128": 0,
+            "129": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Person::.ctor()": {
+          "Lines": {
+            "21": 3,
+            "22": 3,
+            "23": 3,
+            "24": 3,
+            "25": 3,
+            "26": 3,
+            "27": 3
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Person::.ctor(System.Int32,System.String,System.String,System.Int32)": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Person::.ctor(ClassLibrary12.Person)": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Person::.cctor()": {
+          "Lines": {
+            "7": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\PersonAgeComparer.cs": {
+      "ClassLibrary12.PersonAgeComparer": {
+        "System.Int32 ClassLibrary12.PersonAgeComparer::Compare(System.Object,System.Object)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "13": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": [
+            {
+              "Line": 10,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 9,
+              "EndOffset": 24,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 27,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Student.cs": {
+      "ClassLibrary12.Student": {
+        "System.Void ClassLibrary12.Student::Init()": {
+          "Lines": {
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Student::RandomInit()": {
+          "Lines": {
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean ClassLibrary12.Student::Equals(System.Object)": {
+          "Lines": {
+            "50": 0,
+            "52": 0,
+            "55": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": [
+            {
+              "Line": 52,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 13,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 58,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 58,
+              "Offset": 43,
+              "EndOffset": 61,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32 ClassLibrary12.Student::GetHashCode()": {
+          "Lines": {
+            "61": 0,
+            "62": 0,
+            "63": 0
+          },
+          "Branches": [
+            {
+              "Line": 62,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 62,
+              "Offset": 8,
+              "EndOffset": 14,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.String ClassLibrary12.Student::ToString()": {
+          "Lines": {
+            "66": 0,
+            "67": 0,
+            "68": 0
+          },
+          "Branches": []
+        },
+        "System.Object ClassLibrary12.Student::Clone()": {
+          "Lines": {
+            "72": 0,
+            "73": 0,
+            "74": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Student::.ctor()": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Student::.ctor(System.Int32,System.String,System.String,System.Int32,System.String,System.Int32)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Student::.ctor(ClassLibrary12.Student)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Student::.cctor()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\ClassLibrary12\\Teacher.cs": {
+      "ClassLibrary12.Teacher": {
+        "System.Void ClassLibrary12.Teacher::Init()": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Teacher::RandomInit()": {
+          "Lines": {
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean ClassLibrary12.Teacher::Equals(System.Object)": {
+          "Lines": {
+            "49": 0,
+            "51": 0,
+            "54": 0,
+            "57": 0,
+            "58": 0
+          },
+          "Branches": [
+            {
+              "Line": 51,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 13,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 43,
+              "EndOffset": 61,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32 ClassLibrary12.Teacher::GetHashCode()": {
+          "Lines": {
+            "60": 0,
+            "61": 0,
+            "62": 0
+          },
+          "Branches": [
+            {
+              "Line": 61,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 8,
+              "EndOffset": 14,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.String ClassLibrary12.Teacher::ToString()": {
+          "Lines": {
+            "64": 0,
+            "65": 0,
+            "66": 0
+          },
+          "Branches": []
+        },
+        "System.Object ClassLibrary12.Teacher::Clone()": {
+          "Lines": {
+            "70": 0,
+            "71": 0,
+            "72": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Teacher::.ctor()": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Teacher::.ctor(System.Int32,System.String,System.String,System.Int32,System.String,System.Int32)": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Teacher::.ctor(ClassLibrary12.Teacher)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Void ClassLibrary12.Teacher::.cctor()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "laba12.dll": {
+    "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\12laba\\laba12\\Program.cs": {
+      "ClassLibrary12.Program": {
+        "System.Void ClassLibrary12.Program::Main(System.String[])": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "80": 0,
+            "82": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "105": 0,
+            "106": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "148": 0,
+            "149": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "182": 0,
+            "183": 0,
+            "186": 0,
+            "187": 0,
+            "189": 0,
+            "206": 0
+          },
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 191,
+              "EndOffset": 193,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 200,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 209,
+              "EndOffset": 216,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 200,
+              "EndOffset": 233,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 240,
+              "EndOffset": 247,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 254,
+              "EndOffset": 261,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 191,
+              "EndOffset": 275,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 282,
+              "EndOffset": 284,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 291,
+              "EndOffset": 298,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 282,
+              "EndOffset": 312,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 319,
+              "EndOffset": 323,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 330,
+              "EndOffset": 337,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 268,
+              "EndOffset": 354,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 319,
+              "EndOffset": 376,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 305,
+              "EndOffset": 398,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 223,
+              "EndOffset": 420,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 209,
+              "EndOffset": 442,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 254,
+              "EndOffset": 464,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 240,
+              "EndOffset": 486,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 344,
+              "EndOffset": 508,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 330,
+              "EndOffset": 530,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 291,
+              "EndOffset": 552,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 366,
+              "EndOffset": 574,
+              "Path": 1,
+              "Ordinal": 27,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 621,
+              "EndOffset": 623,
+              "Path": 0,
+              "Ordinal": 46,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 621,
+              "EndOffset": 639,
+              "Path": 1,
+              "Ordinal": 47,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 635,
+              "EndOffset": 658,
+              "Path": 1,
+              "Ordinal": 49,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 635,
+              "EndOffset": 689,
+              "Path": 0,
+              "Ordinal": 48,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 388,
+              "EndOffset": 707,
+              "Path": 1,
+              "Ordinal": 29,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 754,
+              "EndOffset": 756,
+              "Path": 0,
+              "Ordinal": 50,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 754,
+              "EndOffset": 775,
+              "Path": 1,
+              "Ordinal": 51,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 802,
+              "EndOffset": 804,
+              "Path": 0,
+              "Ordinal": 54,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 843,
+              "EndOffset": 810,
+              "Path": 1,
+              "Ordinal": 57,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 843,
+              "EndOffset": 845,
+              "Path": 0,
+              "Ordinal": 56,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 768,
+              "EndOffset": 848,
+              "Path": 1,
+              "Ordinal": 53,
+              "Hits": 0
+            },
+            {
+              "Line": 67,
+              "Offset": 875,
+              "EndOffset": 877,
+              "Path": 0,
+              "Ordinal": 58,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 930,
+              "EndOffset": 883,
+              "Path": 1,
+              "Ordinal": 61,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 930,
+              "EndOffset": 932,
+              "Path": 0,
+              "Ordinal": 60,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 768,
+              "EndOffset": 935,
+              "Path": 0,
+              "Ordinal": 52,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 410,
+              "EndOffset": 953,
+              "Path": 1,
+              "Ordinal": 31,
+              "Hits": 0
+            },
+            {
+              "Line": 85,
+              "Offset": 971,
+              "EndOffset": 973,
+              "Path": 0,
+              "Ordinal": 62,
+              "Hits": 0
+            },
+            {
+              "Line": 85,
+              "Offset": 971,
+              "EndOffset": 990,
+              "Path": 1,
+              "Ordinal": 63,
+              "Hits": 0
+            },
+            {
+              "Line": 93,
+              "Offset": 1098,
+              "EndOffset": 1020,
+              "Path": 1,
+              "Ordinal": 65,
+              "Hits": 0
+            },
+            {
+              "Line": 93,
+              "Offset": 1098,
+              "EndOffset": 1100,
+              "Path": 0,
+              "Ordinal": 64,
+              "Hits": 0
+            },
+            {
+              "Line": 99,
+              "Offset": 1138,
+              "EndOffset": 1140,
+              "Path": 0,
+              "Ordinal": 66,
+              "Hits": 0
+            },
+            {
+              "Line": 99,
+              "Offset": 1143,
+              "EndOffset": 1145,
+              "Path": 0,
+              "Ordinal": 68,
+              "Hits": 0
+            },
+            {
+              "Line": 99,
+              "Offset": 1138,
+              "EndOffset": 1162,
+              "Path": 1,
+              "Ordinal": 67,
+              "Hits": 0
+            },
+            {
+              "Line": 99,
+              "Offset": 1143,
+              "EndOffset": 1162,
+              "Path": 1,
+              "Ordinal": 69,
+              "Hits": 0
+            },
+            {
+              "Line": 99,
+              "Offset": 1167,
+              "EndOffset": 1169,
+              "Path": 0,
+              "Ordinal": 70,
+              "Hits": 0
+            },
+            {
+              "Line": 102,
+              "Offset": 1202,
+              "EndOffset": 1204,
+              "Path": 0,
+              "Ordinal": 72,
+              "Hits": 0
+            },
+            {
+              "Line": 102,
+              "Offset": 1202,
+              "EndOffset": 1217,
+              "Path": 1,
+              "Ordinal": 73,
+              "Hits": 0
+            },
+            {
+              "Line": 99,
+              "Offset": 1167,
+              "EndOffset": 1231,
+              "Path": 1,
+              "Ordinal": 71,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 432,
+              "EndOffset": 1249,
+              "Path": 1,
+              "Ordinal": 33,
+              "Hits": 0
+            },
+            {
+              "Line": 114,
+              "Offset": 1267,
+              "EndOffset": 1269,
+              "Path": 0,
+              "Ordinal": 74,
+              "Hits": 0
+            },
+            {
+              "Line": 114,
+              "Offset": 1267,
+              "EndOffset": 1286,
+              "Path": 1,
+              "Ordinal": 75,
+              "Hits": 0
+            },
+            {
+              "Line": 122,
+              "Offset": 1394,
+              "EndOffset": 1316,
+              "Path": 1,
+              "Ordinal": 77,
+              "Hits": 0
+            },
+            {
+              "Line": 122,
+              "Offset": 1394,
+              "EndOffset": 1396,
+              "Path": 0,
+              "Ordinal": 76,
+              "Hits": 0
+            },
+            {
+              "Line": 129,
+              "Offset": 1482,
+              "EndOffset": 1484,
+              "Path": 0,
+              "Ordinal": 78,
+              "Hits": 0
+            },
+            {
+              "Line": 129,
+              "Offset": 1482,
+              "EndOffset": 1508,
+              "Path": 1,
+              "Ordinal": 79,
+              "Hits": 0
+            },
+            {
+              "Line": 136,
+              "Offset": 1575,
+              "EndOffset": 1577,
+              "Path": 0,
+              "Ordinal": 80,
+              "Hits": 0
+            },
+            {
+              "Line": 136,
+              "Offset": 1575,
+              "EndOffset": 1594,
+              "Path": 1,
+              "Ordinal": 81,
+              "Hits": 0
+            },
+            {
+              "Line": 142,
+              "Offset": 1653,
+              "EndOffset": 1606,
+              "Path": 1,
+              "Ordinal": 83,
+              "Hits": 0
+            },
+            {
+              "Line": 142,
+              "Offset": 1653,
+              "EndOffset": 1655,
+              "Path": 0,
+              "Ordinal": 82,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 454,
+              "EndOffset": 1688,
+              "Path": 1,
+              "Ordinal": 35,
+              "Hits": 0
+            },
+            {
+              "Line": 153,
+              "Offset": 1715,
+              "EndOffset": 1717,
+              "Path": 0,
+              "Ordinal": 84,
+              "Hits": 0
+            },
+            {
+              "Line": 153,
+              "Offset": 1715,
+              "EndOffset": 1724,
+              "Path": 1,
+              "Ordinal": 85,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 476,
+              "EndOffset": 1740,
+              "Path": 1,
+              "Ordinal": 37,
+              "Hits": 0
+            },
+            {
+              "Line": 158,
+              "Offset": 1791,
+              "EndOffset": 1767,
+              "Path": 1,
+              "Ordinal": 87,
+              "Hits": 0
+            },
+            {
+              "Line": 158,
+              "Offset": 1791,
+              "EndOffset": 1793,
+              "Path": 0,
+              "Ordinal": 86,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 498,
+              "EndOffset": 1813,
+              "Path": 1,
+              "Ordinal": 39,
+              "Hits": 0
+            },
+            {
+              "Line": 165,
+              "Offset": 1878,
+              "EndOffset": 1854,
+              "Path": 1,
+              "Ordinal": 89,
+              "Hits": 0
+            },
+            {
+              "Line": 165,
+              "Offset": 1878,
+              "EndOffset": 1880,
+              "Path": 0,
+              "Ordinal": 88,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 520,
+              "EndOffset": 1900,
+              "Path": 1,
+              "Ordinal": 41,
+              "Hits": 0
+            },
+            {
+              "Line": 172,
+              "Offset": 1960,
+              "EndOffset": 1936,
+              "Path": 1,
+              "Ordinal": 91,
+              "Hits": 0
+            },
+            {
+              "Line": 172,
+              "Offset": 1960,
+              "EndOffset": 1962,
+              "Path": 0,
+              "Ordinal": 90,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 542,
+              "EndOffset": 1979,
+              "Path": 1,
+              "Ordinal": 43,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 564,
+              "EndOffset": 2004,
+              "Path": 1,
+              "Ordinal": 45,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 223,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 268,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 305,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 344,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 366,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 388,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 28,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 410,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 30,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 432,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 32,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 454,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 34,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 476,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 36,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 498,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 38,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 520,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 40,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 542,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 42,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 564,
+              "EndOffset": 2017,
+              "Path": 0,
+              "Ordinal": 44,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 802,
+              "EndOffset": 2030,
+              "Path": 1,
+              "Ordinal": 55,
+              "Hits": 0
+            },
+            {
+              "Line": 67,
+              "Offset": 875,
+              "EndOffset": 2030,
+              "Path": 1,
+              "Ordinal": 59,
+              "Hits": 0
+            },
+            {
+              "Line": 130,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 130,
+              "Offset": 8,
+              "EndOffset": 13,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 131,
+              "Offset": 2,
+              "EndOffset": 4,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 131,
+              "Offset": 2,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "ClassLibrary12.Person ClassLibrary12.Program::<Main>g__CreatePerson|0_0()": {
+          "Lines": {
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "196": 0,
+            "197": 0,
+            "199": 0,
+            "200": 0,
+            "202": 0,
+            "203": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

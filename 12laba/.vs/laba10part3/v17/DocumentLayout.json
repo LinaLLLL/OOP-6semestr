@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\laba10part3\\classlibrary10l3part\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|solutionrelative:classlibrary10l3part\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\laba10part3\\classlibrary10l3part\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|solutionrelative:classlibrary10l3part\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BEDF91-5FF9-4B6E-BC94-EAD00CECD927}|laba10part3\\laba10part3.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\laba10part3\\laba10part3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BEDF91-5FF9-4B6E-BC94-EAD00CECD927}|laba10part3\\laba10part3.csproj|solutionrelative:laba10part3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\laba10part3\\classlibrary10l3part\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|solutionrelative:classlibrary10l3part\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\laba10part3\\classlibrary10l3part\\personagecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|solutionrelative:classlibrary10l3part\\personagecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\laba10part3\\classlibrary10l3part\\idnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|solutionrelative:classlibrary10l3part\\idnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\laba10part3\\classlibrary10l3part\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|solutionrelative:classlibrary10l3part\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\laba10part3\\classlibrary10l3part\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|solutionrelative:classlibrary10l3part\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|c:\\users\\linac\\source\\repos\\oop-labs\\oop\\laba10part3\\classlibrary10l3part\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|solutionrelative:classlibrary10l3part\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\classlibrary10l3part\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{1B365AEA-6210-47BD-99E3-6D5E2B47DE10}|ClassLibrary10l3part\\ClassLibrary10l3part.csproj|solutionrelative:classlibrary10l3part\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 164,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassLibrary10l3part\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassLibrary10l3part\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-12-15T06:54:32.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdNumber.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\IdNumber.cs",
+              "RelativeDocumentMoniker": "ClassLibrary10l3part\\IdNumber.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\IdNumber.cs",
+              "RelativeToolTip": "ClassLibrary10l3part\\IdNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T06:37:05.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonAgeComparer.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\PersonAgeComparer.cs",
+              "RelativeDocumentMoniker": "ClassLibrary10l3part\\PersonAgeComparer.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\PersonAgeComparer.cs",
+              "RelativeToolTip": "ClassLibrary10l3part\\PersonAgeComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T05:03:44.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\laba10part3\\Program.cs",
+              "RelativeDocumentMoniker": "laba10part3\\Program.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\laba10part3\\Program.cs",
+              "RelativeToolTip": "laba10part3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:17:23.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\Animal.cs",
+              "RelativeDocumentMoniker": "ClassLibrary10l3part\\Animal.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\Animal.cs",
+              "RelativeToolTip": "ClassLibrary10l3part\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:47:16.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInit.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\IInit.cs",
+              "RelativeDocumentMoniker": "ClassLibrary10l3part\\IInit.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\IInit.cs",
+              "RelativeToolTip": "ClassLibrary10l3part\\IInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:27:08.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\Employee.cs",
+              "RelativeDocumentMoniker": "ClassLibrary10l3part\\Employee.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\Employee.cs",
+              "RelativeToolTip": "ClassLibrary10l3part\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:26:33.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\Teacher.cs",
+              "RelativeDocumentMoniker": "ClassLibrary10l3part\\Teacher.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\Teacher.cs",
+              "RelativeToolTip": "ClassLibrary10l3part\\Teacher.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:25:44.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\Student.cs",
+              "RelativeDocumentMoniker": "ClassLibrary10l3part\\Student.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\Student.cs",
+              "RelativeToolTip": "ClassLibrary10l3part\\Student.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv0oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:24:33.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\Person.cs",
+              "RelativeDocumentMoniker": "ClassLibrary10l3part\\Person.cs",
+              "ToolTip": "C:\\Users\\linac\\source\\repos\\OOP-labs\\oop\\laba10part3\\ClassLibrary10l3part\\Person.cs",
+              "RelativeToolTip": "ClassLibrary10l3part\\Person.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwG4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:22:37.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
