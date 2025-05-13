@@ -1,7 +1,0 @@
-C:\Users\linac\source\repos\oop\1laba\1laba\bin\Debug\1laba.exe.config
-C:\Users\linac\source\repos\oop\1laba\1laba\bin\Debug\1laba.exe
-C:\Users\linac\source\repos\oop\1laba\1laba\bin\Debug\1laba.pdb
-C:\Users\linac\source\repos\oop\1laba\1laba\obj\Debug\1laba.csproj.AssemblyReference.cache
-C:\Users\linac\source\repos\oop\1laba\1laba\obj\Debug\1laba.csproj.CoreCompileInputs.cache
-C:\Users\linac\source\repos\oop\1laba\1laba\obj\Debug\1laba.exe
-C:\Users\linac\source\repos\oop\1laba\1laba\obj\Debug\1laba.pdb
